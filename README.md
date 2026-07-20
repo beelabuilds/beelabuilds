@@ -1,6 +1,6 @@
 # Salsabil
 
-Computer Science student from Egypt 🇪🇬
+Computer Science student from Egypt 
 
 Building meaningful software while figuring out how computers—and occasionally myself—work.
 
