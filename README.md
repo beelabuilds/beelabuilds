@@ -2,7 +2,7 @@
 
 Computer Science student from Egypt 
 
-Building meaningful software while figuring out how computers—and occasionally myself—work.
+Building meaningful software while figuring out how computers - and occasionally myself - work.
 
 I like creating projects with real impact, experimenting with new technologies, and learning something new everytime.
 
