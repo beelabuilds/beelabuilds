@@ -6,7 +6,7 @@ Building meaningful software while figuring out how computers - and occasionally
 
 I like creating projects with real impact, experimenting with new technologies, and learning something new everytime.
 
-**Things I worked with:**
+**What I worked with so far:**
 
 `C` `C++` `Java` `Python` `Dart` `React Native` `HTML` `CSS` `JavaScript`
 
